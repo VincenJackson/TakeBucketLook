@@ -1,0 +1,15 @@
+{
+    "notify_pushplus_token": "*****",
+    "notify_sckey": "*****",
+    "notify_wechat_corpid": "*****",
+    "notify_wechat_corpsecret": "*****",
+    "notify_wechat_agentld": "000000",
+    "notify_tele_bottoken": "*****",
+    "notify_tele_chatid": "*****",
+    "notify_tele_url": "https://api.telegram.org",
+    "accountSn": "1",
+    "user-1": "1******1",
+    "password-1": "7******7",
+    "enable_smslogin-1": "true",
+    "appid-1": "9******9"
+}
